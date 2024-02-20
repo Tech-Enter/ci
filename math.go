@@ -7,6 +7,7 @@ func main() {
 	// Output: 5
 	// go test
 	// go test -v
+	// go test -cover
 }
 
 func Soma(a int, b int) int {

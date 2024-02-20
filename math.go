@@ -8,6 +8,7 @@ func main() {
 	// go test
 	// go test -v
 	// go test -cover
+	// go test -covere
 }
 
 func Soma(a int, b int) int {

@@ -28,4 +28,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: rodrigovaz1/fullcycle-ci:latest
+        tags: rodrigovaztec/fullcycle-ci:latest
